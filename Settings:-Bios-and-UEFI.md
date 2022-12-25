@@ -8,5 +8,5 @@
   - Disable rBAR
   - Use UEFI if possible
   - Use USB Stick as first Boot device
-
+---
   - Disable all unused Hardware
