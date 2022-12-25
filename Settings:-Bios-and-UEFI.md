@@ -1,5 +1,3 @@
-## Recommended BIOS/UEFI Settings for Native/Baremetal
-
   - Set SATA Controller to AHCI Mode
   - Disable Fastboot
   - Disable Secure Boot
