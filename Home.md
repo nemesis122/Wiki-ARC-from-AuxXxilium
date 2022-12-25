@@ -2,11 +2,9 @@
 
 ## Important
 
-### It is highly recommended to use a fast USB flash drive
-
-### You must have at least 4GB of RAM, both in baremetal and VMs
-
-### The DSM kernel is compatible with SATA ports, not SAS/SCSI/etc. For device-tree models (DT) only SATA ports work. For the other models, another type of disks may work.
+- It is highly recommended to use a fast USB flash drive
+- You must have at least 4GB of RAM, both in baremetal and VMs
+- The DSM kernel is compatible with SATA ports, not SAS/SCSI/etc. For device-tree models (DT) only SATA ports work. For the other models, another type of disks may work.
 
 ## Use Arc Redpill Loader
 
