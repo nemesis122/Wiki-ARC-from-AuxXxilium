@@ -10,3 +10,4 @@
   - Use USB Stick as first Boot device
 ---
   - Disable all unused Hardware
+  - Disable SATA Controller if you use a Raid or HBA Controller
