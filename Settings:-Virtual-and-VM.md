@@ -4,4 +4,4 @@
 
 ---
 
-  - Download Open-VM-Tools: [Open-VM-Tools](https://github.com/AuxXxilium/synology-dsm-open-vm-tools/releases/latest)
+  - Download Open-VM-Tools for DSM: [Open-VM-Tools](https://github.com/AuxXxilium/synology-dsm-open-vm-tools/releases/latest)
