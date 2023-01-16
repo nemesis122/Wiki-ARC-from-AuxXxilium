@@ -6,13 +6,12 @@
   - Disable Fastboot
   - Disable Secure Boot
   - Disable C1E Support (to support higher ACPI states)
-  - Disable all unused Hardware
 
 ---
 
 ### Settings for Raid/HBA
 
-  - Disable SATA Controller if you use a Raid or HBA Controller
+  - Disable SATA Controller if you use a Raid or HBA Controller and your SATA Controller has no drives
 
 ---
 
@@ -20,5 +19,4 @@
 
   - Enable OptionROM/OpROM
   - Disable PXE Boot
-  - Disable SRV-IO
   - Disable rBAR
