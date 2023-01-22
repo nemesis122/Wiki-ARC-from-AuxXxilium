@@ -43,4 +43,4 @@
 ### Arc Patch
 
   - Install with Arc Patch to get Syno Services working
-  - Install without to set your own config in: Advanced - Edit user config
+  - Install without Arc Patch to set your own Config: Advanced - Edit user config
