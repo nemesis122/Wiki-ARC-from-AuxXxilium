@@ -27,5 +27,5 @@
 
 ### If you have Problems with VMM
 
-  - Enable Intel VT-d or AMD IOMMU
+  - Disable Intel VT-d or AMD IOMMU
   - Enable Vanderpool / SVM / VT-x / AMD-V
