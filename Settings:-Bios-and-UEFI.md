@@ -6,6 +6,7 @@
   - Disable Fastboot/Quiet Boot
   - Disable Secure Boot
   - Disable C1E Support (to support higher ACPI states)
+  - Optional: Disable all unused Devices - DSM only can handle 8 PCI Strings
 
 ---
 
