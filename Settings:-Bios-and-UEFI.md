@@ -1,16 +1,20 @@
 ### Important for Native Installation
 
   - Set onboard SATA Controller to AHCI Mode
-  - Use UEFI if possible
-  - Use USB Stick as first Boot device
+  - Disable Memory Remap
   - Disable Fastboot/Quiet Boot
   - Disable Secure Boot
-  - Disable C1E Support (to support higher ACPI states)
+  - Use USB Stick as first Boot device
+
+### Recommended for Native Installation
+
+  - Use UEFI (if possible)
+  - Disable C1E Support (to support higher ACPI states, not on every Board needed)
   - Optional: Disable all unused Devices - DSM only can handle 8 PCI Strings
 
 ---
 
-### Settings for Raid/HBA
+### Recommended for Raid/HBA
 
   - Disable SATA Controller if you use a Raid or HBA Controller and your SATA Controller has no drives
 
