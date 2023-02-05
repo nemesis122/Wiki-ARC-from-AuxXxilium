@@ -6,8 +6,7 @@
 
 ### NVMe Addon Options
 
-* _you can only use 1 of them_
-* _it is only possible to change this option in a clean DSM Installation_
+_you can only use 1 of them - it is only possible to change this option in a clean DSM Installation_
 
 * nvmecache: Adds NVMe Disks as Cache <- working after first reboot
 * nvmestorage: Adds NVMe Disks as Storage <- working after first reboot | EXPERIMENTAL
