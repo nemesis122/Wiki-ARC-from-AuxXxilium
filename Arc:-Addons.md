@@ -11,6 +11,4 @@ _you can only use 1 of them - it is only possible to change this option in a cle
 * **nvmecache**: Adds NVMe Disks as Cache <- working after first reboot
 * **nvmestorage**: Adds NVMe Disks as Storage <- EXPERIMENTAL
 
-`Add nvmestorage after DSM installation and Volume creation, else it will not work and creation will fail. We need another Bootvolume because of DSM can't boot from NVMe. It is possible that you have to fix Storage Pool in Storage Manager.`  
-
-(working on native/baremetal Installations and on ESXi up to 7.0U3 - not working on ESXi 8!)
+`Add nvmestorage after DSM installation and Volume creation, else it will not work and creation will fail. We need another Bootvolume because of DSM can't boot from NVMe. It is possible that you have to fix Storage Pool in Storage Manager.`
