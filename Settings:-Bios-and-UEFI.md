@@ -22,7 +22,7 @@
 
 ### If you have Problems with boot
 
-  - Disable Serial Console in ILO, IPMI and ...
+  - Disable Serial Console in ILO, IPMI and so on...
   - Disable PXE Boot
   - Disable rBAR
   - Disable SR-IOV
