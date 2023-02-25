@@ -14,8 +14,8 @@
   + VirtIO Net
 
 ### SCSI:
-  + VMWare PVSCSI (with Comandline - SataPortMap = 1)
-  + VirtIO SCSI (with Comandline - SataPortMap = 1)
+  + VMWare PVSCSI
+  + VirtIO SCSI
 
 ### SATA:
   + VMWare SATA
@@ -24,7 +24,7 @@
   + Asmedia SATA Controller 
 
 ### Hypervisor:
-  + VMware vSphere ESXi (up to 7.0U3)
+  + VMware vSphere ESXi
   + unRaid (depends on config)
   + Proxmox (depends on config)
 
