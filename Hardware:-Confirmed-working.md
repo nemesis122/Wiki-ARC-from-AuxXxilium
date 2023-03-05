@@ -24,7 +24,7 @@
   + Asmedia SATA Controller 
 
 ### Hypervisor:
-  + VMware vSphere ESXi
+  + VMware vSphere ESXi (up to 7.0U3g and from 8.0b)
   + unRaid (depends on config)
   + Proxmox (depends on config)
 
