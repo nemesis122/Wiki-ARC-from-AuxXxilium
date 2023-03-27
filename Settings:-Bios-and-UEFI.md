@@ -4,6 +4,7 @@
   - Disable Memory Remap
   - Disable Fastboot/Quiet Boot
   - Disable Secure Boot
+  - Enable Above 4G Decoding
   - Use USB Stick as first Boot device
 
 ### Recommended for Native Installation
@@ -22,7 +23,6 @@
 
 ### If you have Problems with boot
 
-  - Enable Above 4G Decoding
   - Disable Serial Console in ILO, IPMI and so on...
   - Disable PXE Boot
   - Disable rBAR
