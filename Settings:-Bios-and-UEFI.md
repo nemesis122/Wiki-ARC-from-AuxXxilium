@@ -22,6 +22,7 @@
 
 ### If you have Problems with boot
 
+  - Enable Above 4G Decoding
   - Disable Serial Console in ILO, IPMI and so on...
   - Disable PXE Boot
   - Disable rBAR
