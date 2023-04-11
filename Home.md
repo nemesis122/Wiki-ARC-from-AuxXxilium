@@ -1,4 +1,4 @@
-# Welcome to AuxXxilium Wiki for Arc Redpill Loader
+# Welcome to Wiki for Arc Loader
 
 ## Important
 
