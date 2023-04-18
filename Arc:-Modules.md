@@ -163,7 +163,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###apollolake-4.4.302
+### apollolake-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -312,7 +312,7 @@ DRM panel infrastructure"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
 
-###broadwell-4.4.180
+### broadwell-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -456,7 +456,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###broadwell-4.4.302
+### broadwell-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -613,7 +613,7 @@ DRM panel infrastructure"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
 
-###broadwellnk-4.4.180
+### broadwellnk-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -760,7 +760,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###broadwellnk-4.4.302
+### broadwellnk-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -917,7 +917,7 @@ DRM panel infrastructure"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
 
-###denverton-4.4.180
+### denverton-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -1069,7 +1069,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###denverton-4.4.302
+### denverton-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -1223,7 +1223,7 @@ DRM panel infrastructure"
 * vmxnet3 "VMware vmxnet3 virtual NIC driver"
 * vub300 "VUB300 USB to SD/MMC/SDIO adapter driver"
 
-###epyc7002-5.10.55
+### epyc7002-5.10.55
 
 * acpi-cpufreq "ACPI Processor P-States Driver"
 * alx "Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver"
@@ -1303,10 +1303,10 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###firmware
+### firmware
 
 
-###geminilake-4.4.180
+### geminilake-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -1465,7 +1465,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###geminilake-4.4.302
+### geminilake-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -1611,7 +1611,7 @@ DRM panel infrastructure"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
 
-###r1000-4.4.180
+### r1000-4.4.180
 
 * 8139cp "RealTek RTL-8139C+ series 10/100 PCI Ethernet driver"
 * 8139too "RealTek RTL-8139 Fast Ethernet driver"
@@ -1743,7 +1743,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###r1000-4.4.302
+### r1000-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -1896,7 +1896,7 @@ DRM panel infrastructure"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
 
-###v1000-4.4.180
+### v1000-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -2043,7 +2043,7 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-###v1000-4.4.302
+### v1000-4.4.302
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
@@ -2194,3 +2194,5 @@ DRM panel infrastructure"
 * vub300 "VUB300 USB to SD/MMC/SDIO adapter driver"
 * vxge "Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter"
 * wch "WCH Multi-I/O Board Driver Module"
+
+Update: 23.04.18
