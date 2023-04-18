@@ -1303,9 +1303,6 @@ DRM panel infrastructure"
 * xhci-hcd "'eXtensible' Host Controller (xHC) Driver"
 * xhci-pci "xHCI PCI Host Controller Driver"
 
-### firmware
-
-
 ### geminilake-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
