@@ -1,6 +1,6 @@
 ## List of all included modules
 
-###apollolake-4.4.180
+### apollolake-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
 * 3w-sas "LSI 3ware SAS/SATA-RAID Linux Driver"
