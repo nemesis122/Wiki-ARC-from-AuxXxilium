@@ -1,4 +1,4 @@
-Please activate Arc - Advanced - Direct Boot
+Please set Arc - Advanced - Direct Boot - "true"
 
  - If you have problems to start the DSM
  - If your Hardware will not be found while boot to DSM
@@ -7,3 +7,7 @@ Please activate Arc - Advanced - Direct Boot
 ---
 
 Make sure you have rebuilded the Loader after setting Direct Boot to true.
+
+---
+
+The "Direct Boot" Mode is persistent with Arc Loader. There is a special way after install DSM and Update DSM. You have to boot once with "Boot DSM" instead of "Boot DSM directly". After the Loader is rebooted, it will always load "Direct Boot" and don't need to reboot everytime like old integrations.
