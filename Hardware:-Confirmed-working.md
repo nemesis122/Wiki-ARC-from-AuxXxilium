@@ -1,5 +1,5 @@
 ### CPU:
-  + Intel (looks like all)
+  + Intel (up to 12th Gen without E-Cores)
   + AMD (working for me with 5600X)
 
 ### Ethernet:
