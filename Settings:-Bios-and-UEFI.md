@@ -1,7 +1,6 @@
 ### Important for Native Installation
 
   - Set onboard SATA Controller to AHCI Mode
-  - Disable Memory Remap
   - Disable Fastboot/Quiet Boot
   - Disable Secure Boot
   - Enable Above 4G Decoding
