@@ -15,7 +15,7 @@
 
 ### DS918+ / DS920+
 
-  - Possible to get i915 (Intel Graphics) working and NVidia GPU in DVA3221
+  - Possible to get i915 (Intel Graphics) working
   - NVMe Cache working
   - No Support for RAID/SCSI/HBA Controller
   - Only support for SATA Controller
