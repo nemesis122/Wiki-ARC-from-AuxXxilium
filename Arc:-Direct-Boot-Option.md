@@ -2,7 +2,7 @@ Please set Arc - Advanced - Direct Boot - "true"
 
  - If you have problems to start the DSM
  - If your Hardware will not be found while boot to DSM
- - If you have other problems while booting (especially on HP Clients)
+ - If you have other problems while booting (especially on HP Clients and Microserver)
 
 ---
 
