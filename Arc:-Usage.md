@@ -9,3 +9,7 @@
 ### Use SSH
 
 * You can use SSH: User: `root` Password: `Redp1ll` to setup the Loader. Loader can be launched with `arc.sh`.
+
+### Reboot to Arc from DSM
+
+* Reboot to Loader `arc-reboot.sh`.
