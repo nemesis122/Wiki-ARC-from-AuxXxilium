@@ -3,12 +3,12 @@
   - Set onboard SATA Controller to AHCI Mode
   - Disable Fastboot/Quiet Boot
   - Disable Secure Boot
-  - Enable Above 4G Decoding
   - Use USB Stick as first Boot device
 
 ### Recommended for Native Installation
 
   - Use UEFI (if possible)
+  - Enable Above 4G Decoding (possible that your Hardware need to disable it)
   - Disable C1E Support (to support higher ACPI states, not on every Board needed)
   - Optional: Disable all unused Devices - DSM only can handle 8 PCI Strings
 
