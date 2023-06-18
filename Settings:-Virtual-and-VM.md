@@ -5,7 +5,15 @@
 
 ---
 
-### Open VM Tools
+### Open VM Tools for ESXi
 
   - Get VM Shutdown/Reboot from Hypervisor Menu and advanced Features working
   - Download Open-VM-Tools for DSM: [Open-VM-Tools](https://github.com/AuxXxilium/synology-dsm-open-vm-tools/releases/latest)
+
+---
+
+### Proxmox Settings
+
+https://www.youtube.com/watch?v=BVwKy9zXgQg
+
+Thanks to @diegomtnz for this Video.
