@@ -1,9 +1,12 @@
   - ARC Loader Disk at SATA 0:0
   - Data Disks at SATA 0:1 - 0:7 / SATA x:0 - x:7 /  SCSI x:0 - x:7
   - Arc Loader should build a custom Drivemap automatically
-  - If you use ESXi go to: Networking - vSwitch - Edit - Security - MAC address changes - ACCEPT
 
 ---
+
+### VMware ESXi
+
+  - Networking - vSwitch - Edit - Security - MAC address changes - ACCEPT
 
 ### Open VM Tools for ESXi
 
