@@ -11,5 +11,3 @@
 * **localrss**: Local RSS Server for DSM Installation (always selected)
 * **misc**: Utilities we need (always selected)
 * **wol**: WOL enable Wake on LAN (always selected)
-
-`We need another Bootvolume because of DSM can't boot from NVMe.`
