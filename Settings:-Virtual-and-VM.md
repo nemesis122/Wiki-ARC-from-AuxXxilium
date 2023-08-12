@@ -19,7 +19,6 @@
 
 ### Proxmox Settings
 
-NEW: https://youtu.be/OSmWmQ30PuI
-OLD: https://www.youtube.com/watch?v=BVwKy9zXgQg
+Youtube Tutorial from @diegomtnz: https://youtu.be/OSmWmQ30PuI
 
 Thanks to @diegomtnz for this Video.
