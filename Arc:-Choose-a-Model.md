@@ -1,37 +1,37 @@
-### DS3622xs+ / RS4021xs+
+### DS3622xs+ / RS4021xs+ - broadwell / broadwellnk - nonDT
 
-  - Hardwaresupport for Intel
+  - Hardwaresupport for Intel (may work on AMD)
   - Support for RAID/SCSI/HBA Controller
   - NVMe Cache working
   - Support for Hypervisor
-  - Actually no Hardwareacceleration with Intel Graphics
 
-### DS1520+ / DS1621+ / DS2422+
+### DS923+ / DS1520+ / DS1621+ / DS2422+ - r1000 / v1000 - DT
 
-  - Hardwaresupport for AMD
+  - Hardwaresupport for AMD (may work on Intel)
   - Support for RAID/SCSI/HBA Controller
   - NVMe Cache working
   - Support for Hypervisor 
 
-### DS918+ / DS920+
+### DS718+ / DS918+ - apollolake - nonDT
 
+  - Hardwaresupport for Intel (may work on AMD)
+  - Possible to get i915 (Intel Graphics) working
+  - NVMe Cache working
+  - Only support for SATA Controller
+  - CPU needs FMA3 Instructions
+
+### DS720+ / DS920+ - geminilake - DT
+
+  - Hardwaresupport for Intel (may work on AMD)
   - Possible to get i915 (Intel Graphics) working
   - NVMe Cache working
   - No Support for RAID/SCSI/HBA Controller
   - Only support for SATA Controller
   - CPU needs FMA3 Instructions
-  - Can make trouble in Hypervisor
 
-### DS923+
+### DVA3219 / DVA3221 - denverton - nonDT
 
-  - Hardwaresupport for AMD
-  - No Support RAID/SCSI/HBA Controller
-  - NVMe Cache working
-  - Support for NVMe as Storagepool (not sure if it will work)
-  - Support for Hypervisor
-
-### DVA3219 / DVA3221
-
+  - Hardwaresupport for Intel (may work on AMD)
   - Possible to get i915 (Intel Graphics) in DVA3219 working and NVidia Graphics in DVA3221
   - NVMe Cache working
   - Support for RAID/SCSI/HBA Controller
