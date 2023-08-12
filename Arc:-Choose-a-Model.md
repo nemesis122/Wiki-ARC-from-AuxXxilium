@@ -18,7 +18,7 @@
   - Possible to get i915 (Intel Graphics) working
   - NVMe Cache working
   - Only support for SATA Controller
-  - CPU needs FMA3 Instructions
+  - CPU needs FMA3/MOVBE Instructions
 
 ### geminilake - DT
 
@@ -27,7 +27,7 @@
   - NVMe Cache working
   - No Support for RAID/SCSI/HBA Controller
   - Only support for SATA Controller
-  - CPU needs FMA3 Instructions
+  - CPU needs FMA3/MOVBE Instructions
 
 ### denverton - nonDT
 
