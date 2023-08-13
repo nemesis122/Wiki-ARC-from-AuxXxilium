@@ -13,4 +13,4 @@
 ### Use SataRemap (remove blank drives)
 
 * This Option removes empty Ports, if you see some empty or dummy Ports of your Controller.
-* It removes the Drive 1 empty Slot while using ESXi. (You have to Map all Drives to SATA Controller of the Virtual Machine, SCSI Ports will not be shown.)
+* It removes the Drive 1 empty Slot while using ESXi. (You have to Map all Drives to SATA Controller, SAS/SCSI Ports will not be shown.)
