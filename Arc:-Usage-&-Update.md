@@ -13,3 +13,12 @@
 ### Reboot to Arc from DSM
 
 * Reboot to Loader from DSM `arc-reboot.sh config`.
+
+### Arc Update
+
+* Best option is to replace the Bootmedia with the new Arc Version
+* You can do a "Full Upgrade Loader" in Arc Update Section
+
+### DSM Update
+
+* You can Update to every new Version of DSM until the Major-/Minorbuild will not change. Ex.: 7.1 -> 7.1.1 or 7.2 -> 7.2 Update 3
