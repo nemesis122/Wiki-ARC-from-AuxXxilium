@@ -1127,9 +1127,6 @@ DRM panel infrastructure"
 * vmxnet3 "VMware vmxnet3 virtual NIC driver"
 * vub300 "VUB300 USB to SD/MMC/SDIO adapter driver"
 
-### firmware
-
-
 ### geminilake-4.4.180
 
 * 3w-9xxx "3ware 9000 Storage Controller Linux Driver"
