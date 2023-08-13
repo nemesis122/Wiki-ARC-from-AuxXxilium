@@ -1,4 +1,4 @@
-### Generic Addons for Loader
+### Addons for Loader
 
 `>>>Make sure you only select these additional Addons you need.<<<`
 
@@ -12,7 +12,7 @@
 * **misc**: Utilities we need (always selected)
 * **wol**: WOL enable Wake on LAN (always selected)
 
-### Generic Extensions for DSM
+### Extensions for DSM
 
 `>>>Make sure you only select these additional Extensions you need.<<<`
 
