@@ -1,3 +1,5 @@
+### Only necessary for nonDT Models
+
 * First: If you don't know anything about SataPortMap or SataRemap. Look at Sysinfo in Arc and look at your Drive Mapping. Now you can choose an Option.
 
 ### Use SataPortMap (controller active Ports)
