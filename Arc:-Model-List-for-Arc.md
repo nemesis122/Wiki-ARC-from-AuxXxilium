@@ -9,7 +9,7 @@
 * 4-Bay
 
 ## DS920+
-* Intel Geminilake (up to 16 Threads)
+* Intel Geminilake (up to 8 Threads)
 * 4-Bay
 * NVMe Cache
 * DT
@@ -25,7 +25,7 @@
 * 5-Bay
 
 ## DS1520+
-* Intel Geminilake (up to 16 Threads)
+* Intel Geminilake (up to 8 Threads)
 * 6-Bay
 * NVMe Cache
 * DT
