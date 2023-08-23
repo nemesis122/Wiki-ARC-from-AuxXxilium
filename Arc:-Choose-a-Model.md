@@ -32,7 +32,7 @@
 ### denverton - nonDT
 
   - Hardwaresupport for Intel (may work on AMD)
-  - Possible to get i915 (Intel Graphics) in DVA3219 working and NVidia Graphics in DVA3221
+  - Possible to get Nvidia Graphics working
   - NVMe Cache working
   - Support for RAID/SCSI/HBA Controller
   - Support for SATA Controller
