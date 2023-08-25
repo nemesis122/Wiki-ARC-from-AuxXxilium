@@ -23,9 +23,7 @@
 * **drivedbpatch**: Adds your Drives to DriveDB
 * **nvmecache**: Allow the User to create NVMe Cache on DS918+, DS419+, DS719+, DS1019+, DS1621xs+ and RS1619xs+
 * **nvmestorage**: Allow the User to create NVMe Storage
-* **oobctl**: Disable OOB CTL
 * **powersched**: Allows to use Timed Power Feature
-* **shr**: Enable SHR
 * **surveillancepatch**: Patch Surveillance Station on all non DVA Models
 
 `We need another Bootvolume because of DSM can't boot from NVMe.`
