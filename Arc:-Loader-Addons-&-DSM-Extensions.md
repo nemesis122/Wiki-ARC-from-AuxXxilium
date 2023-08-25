@@ -7,7 +7,7 @@
 * **console**: Add Console Output for DSM
 * **disks**: Patches Syno Storage Map to match your Config (always selected)
 * **eudev**: Eudev Daemon - to get your Devices working (always selected)
-* **i915**: Patch i915 Modul for some Intel iGPU
+* **i915**: Patch i915 Modul for some Intel iGPU (For Apollolake & Geminilake Models)
 * **localrss**: Local RSS Server for DSM Installation (always selected)
 * **misc**: Utilities we need (always selected)
 * **wol**: WOL enable Wake on LAN (always selected)
