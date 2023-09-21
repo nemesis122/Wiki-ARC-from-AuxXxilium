@@ -1,4 +1,4 @@
-### Not every Model is compatible with every Hardware!
+`Note: Not every Model is compatible with every Hardware!`
 
 ## DS423+
 * Intel Geminilake (up to 8 Threads)
