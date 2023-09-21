@@ -1,3 +1,21 @@
+### Not every Model is compatible with every Hardware!
+
+## DS423+
+* Intel Geminilake (up to 8 Threads)
+* 4-Bay
+* NVMe Cache
+* DT
+
+## DS718+
+* Intel Apollolake (up to 8 Threads)
+* 2-Bay
+
+## DS720+
+* Intel Geminilake (up to 8 Threads)
+* 2-Bay
+* NVMe Cache
+* DT
+
 ## DS723+
 * AMD R1000 (up to 16 Threads)
 * 2-Bay
@@ -92,7 +110,4 @@
 * Intel Broadwellnk (up to 24 Threads)
 * 12-Bay
 
-## SA6400
-* AMD Epyc 7002 (up to 24 Threads)
-* 16-Bay
-* DT
+and more...
