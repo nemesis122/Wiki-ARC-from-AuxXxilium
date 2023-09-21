@@ -17,7 +17,7 @@
 ### Arc Update
 
 * Best option is to replace the Bootmedia with the new Arc Version
-* You can do a "Full Upgrade Loader" in Arc Update Section
+* Or you can select "Upgrade Loader" in Arc Update Section
 
 ### DSM Update
 
