@@ -21,4 +21,5 @@
 
 ### DSM Update
 
-* You can Update to every new Version of DSM until the Major-/Minorbuild will not change. Ex.: 7.1 -> 7.1.1 or 7.2 -> 7.2 Update 3
+* You can Update to every new Version of DSM until the Major-/Minor/Smallfix will not change, without Loader Update. Ex.: 7.1 -> 7.1.1 or 7.2 -> 7.2 Update 3 but not 7.2 to 7.2.1 (This need a Loaderupdate, too.)
+Note: All build later than 23.10.1b will have livepatching - If a new DSM Version is found and your Loader doesn’t support this, the Loader will try to get latest source from Github. If there is no Update at this time, you only have to wait for the new files and boot again. 
