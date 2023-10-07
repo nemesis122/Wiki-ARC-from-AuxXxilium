@@ -16,4 +16,4 @@ To use this project, download the latest image available and burn it to a USB st
 * Max 8 Drives per Storagecontroller
 * Max 26 Drives per System
 * Max 8 NIC per System
-* If you use "Arc Patch" you can only use each Model once in if you plan to use CMS. If not, you can use once per MAC.
+* If you use "Arc Patch" you can only use each Model once in if you plan to use CMS.
