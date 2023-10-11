@@ -16,6 +16,9 @@
 ### SCSI:
   + VMWare PVSCSI
   + VirtIO SCSI
+  + LSI HBA
+  + Adaptec HBA
+  + HP P420i
 
 ### SATA:
   + VMWare SATA
@@ -24,12 +27,13 @@
   + Asmedia SATA Controller 
 
 ### Hypervisor:
-  + VMware vSphere ESXi (up to 7.0U3g and from 8.0b)
+  + VMware vSphere ESXi (latest 7.0 and 8.0 Builds)
   + unRaid (depends on config)
   + Proxmox (depends on config)
 
 ### NVMe
   + WD Red SN700
-  + WD Black SN850
+  + WD Black SN850(X)
+  + WD Blue SN570
   + Samsung 970 Evo (Plus)
   + Samsung 980/980 Pro
