@@ -24,6 +24,6 @@
 * **nvmecache**: Allow the User to create NVMe Cache on DS918+, DS419+, DS719+, DS1019+, DS1621xs+ and RS1619xs+
 * **nvmestorage**: Allow the User to create NVMe Storage
 * **powersched**: Allows to use Timed Power Feature
-* **surveillancepatch**: Patch Surveillance Station on all non DVA Models
+* **surveillancepatch**: Patch Surveillance Station on all non DVA Models (Feed will reload every hour, needed to bypass security in dsm)
 
 `We need another Bootvolume because of DSM can't boot from NVMe.`
