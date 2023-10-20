@@ -27,3 +27,5 @@
 * **surveillancepatch**: Patch Surveillance Station on all non DVA Models (Feed will reload every hour, needed to bypass security in dsm)
 
 `We need another Bootvolume because of DSM can't boot from NVMe.`
+
+`To remove an Addon or Extension you need to deselect it in List, rebuild Loader and select "Force Reinstall DSM" in Grub`
