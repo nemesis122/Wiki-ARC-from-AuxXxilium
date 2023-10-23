@@ -37,3 +37,6 @@
   + WD Blue SN570
   + Samsung 970 Evo (Plus)
   + Samsung 980/980 Pro
+
+### GPU
+  + Nvidia GTX 1650 (only Modells without additional Powerplug - https://a.co/d/9uqiqak)
