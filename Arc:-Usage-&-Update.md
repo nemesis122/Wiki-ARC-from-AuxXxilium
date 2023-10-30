@@ -12,7 +12,7 @@
 
 ### Reboot to Arc from DSM
 
-* Reboot to Loader from DSM `arc-reboot.sh config` or `/usr/sbin/arc-reboot.sh config`.
+* Reboot to Loader from DSM `loader-reboot.sh config` or `/usr/sbin/loader-reboot.sh config`.
 
 ### Arc Update
 
