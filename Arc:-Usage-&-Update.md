@@ -21,5 +21,6 @@
 
 ### DSM Update
 
-* You can Update to every new Version of DSM until the Buildnumber will not change, without Loader Update. 
+* You can Update to every new Version of DSM until the Buildnumber will not change, without Loader Update.
+
 Note: All build later than 23.10.1b will have livepatching - If a new DSM Version is found and your Loader doesn’t support this, the Loader will try to get latest source from Github. If there is no Update at this time, you only have to wait for the new files and boot again. 
