@@ -1,6 +1,7 @@
-### broadwell / broadwellnk - nonDT
+### broadwell / broadwellnk / broadwellnkv2 / broadwellnkbap - nonDT
 
-  - Hardwaresupport for Intel (may work on AMD)
+  - Hardwaresupport for Intel (may work on AMD eq. HP Microserver Gen7)
+  - Support for SATA Controller
   - Support for RAID/SCSI/HBA Controller
   - NVMe Cache working
   - Support for Hypervisor
@@ -8,7 +9,8 @@
 ### r1000 / v1000 - DT
 
   - Hardwaresupport for AMD (may work on Intel)
-  - Support for RAID/SCSI/HBA Controller
+  - Support for SATA Controller
+  - Support for RAID/SCSI/HBA Controller (experimental)
   - NVMe Cache working
   - Support for Hypervisor 
 
@@ -16,23 +18,27 @@
 
   - Hardwaresupport for Intel (may work on AMD)
   - Possible to get i915 (Intel Graphics) working
-  - NVMe Cache working
-  - Only support for SATA Controller
+  - Support for SATA Controller
+  - Support for RAID/SCSI/HBA Controller
   - CPU needs FMA3/MOVBE Instructions
+  - NVMe Cache working
+  - Support for Hypervisor 
 
 ### geminilake - DT
 
   - Hardwaresupport for Intel (may work on AMD)
   - Possible to get i915 (Intel Graphics) working
+  - Support for SATA Controller
+  - Support for RAID/SCSI/HBA Controller (experimental)
   - NVMe Cache working
-  - No Support for RAID/SCSI/HBA Controller
-  - Only support for SATA Controller
   - CPU needs FMA3/MOVBE Instructions
+  - Support for Hypervisor 
 
 ### denverton - nonDT
 
   - Hardwaresupport for Intel (may work on AMD)
   - Possible to get Nvidia Graphics working
-  - NVMe Cache working
-  - Support for RAID/SCSI/HBA Controller
   - Support for SATA Controller
+  - Support for RAID/SCSI/HBA Controller
+  - NVMe Cache working
+  - Support for Hypervisor 
