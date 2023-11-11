@@ -19,6 +19,7 @@
 * Best option is to replace the Bootmedia with the new Arc Version
 * Or you can select "Upgrade Loader" in Arc Update Section
 * All Subversions have to be lower or equal to Arc Release. ( Arc 23.11.1 and Addons 23.10.28 -> working / Arc 23.11.1 and Addons 23.11.4 -> not working)
+* Use restore Option only if you reinstall same version of Arc Loader
 
 ### DSM Update
 
