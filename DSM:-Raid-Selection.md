@@ -1,3 +1,5 @@
+I would prefer a classic Raid (Raid 1 or Raid 10) because of Datarescue Options. SHR is also possible but we have no Way to restore the Data if something will went wrong.
+
 <table id="b_12">
 	<tbody><tr>
 		<th>RAID Type</th>
@@ -65,7 +67,7 @@
 		<td>Sum of all drive sizes</td>
 	</tr>
 	<tr>
-		<td rowspan="3"><b>RAID 1</b></td>
+		<td rowspan="3">RAID 1</td>
 		<td>2</td>
 		<td>1</td>
 		<td rowspan="3">
