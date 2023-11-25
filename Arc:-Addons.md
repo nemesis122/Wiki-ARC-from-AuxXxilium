@@ -20,7 +20,7 @@
 * **nvmecache**: Allow the User to create NVMe Cache on DS918+, DS419+, DS719+, DS1019+, DS1621xs+ and RS1619xs+
 * **nvmestorage**: Allow the User to create NVMe Storage
 * **powersched**: Allows to use Timed Power Feature
-* **surveillancepatch**: Patch [Surveillance Station 9.1.2](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.2-10854/SurveillanceStation-x86_64-9.1.2-10854.spk)on all non DVA Models
+* **surveillancepatch**: Patch [Surveillance Station 9.1.2](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.2-10854/SurveillanceStation-x86_64-9.1.2-10854.spk) on all non DVA Models
 (Feed will reload every hour, needed to bypass Security in DSM)
 
 `We need another Bootvolume because of DSM can't boot from NVMe.`
