@@ -65,7 +65,7 @@
 		<td>Sum of all drive sizes</td>
 	</tr>
 	<tr>
-		<td rowspan="3">RAID 1</td>
+		<td rowspan="3">**RAID 1**</td>
 		<td>2</td>
 		<td>1</td>
 		<td rowspan="3">
